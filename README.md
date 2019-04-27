@@ -1,30 +1,41 @@
-﻿webshell
+﻿WEBSHELL -  NÃO SUBIR OS ARQUIVOS NO SEU SERVIDOR
+=============                                                                                                                                                                              
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ricardosierra/webshell/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ricardosierra/webshell/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/ricardosierra/webshell/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/ricardosierra/webshell/?branch=master)                                                                                                       
+[![Latest Stable Version](https://poser.pugx.org/ricardosierra/webshell/v/stable.png)](https://packagist.org/packages/ricardosierra/webshell) [![Total Downloads](https://poser.pugx.org/ricardosierra/webshell/downloads.png)](https://packagist.org/packages/ricardosierra/webshell) [![Latest Unstable Version](https://poser.pugx.org/ricardosierra/webshell/v/unstable.png)](https://packagist.org/packages/ricardosierra/webshell) [![License](https://poser.pugx.org/ricardosierra/webshell/license.png)](https://packagist.org/packages/ricardosierra/webshell)
 ========
-这是一个webshell收集项目
+Este é um projeto de coleta de webshell
 
-送人玫瑰，手有余香，如果各位下载了本项目，也请您能提交shell
+Envie uma rosa, a mão tem uma fragrância, se você baixar este projeto, por favor submeta também uma concha
 
-本项目涵盖各种常用脚本
+Este projeto abrange uma variedade de scripts comumente usados
 
-如：asp,aspx,php,jsp,pl,py
+Tais como: asp, aspx, php, jsp, pl, py
 
-如提交各种webshell，请勿更改名称和密码
+Não altere o nome e a senha se você enviar vários webshells
 
-注意：所有shell 本人不保证是否有后门，但是自己上传的绝不会故意加后门
+Nota: Não é garantido que todas as conchas tenham uma porta dos fundos, mas nunca adicionarão intencionalmente uma porta dos fundos.
 
-各位提交的，也请勿加后门
+Por favor, não adicione backdoors.
 
-如发现存在后门代码，请issues 。
+Se você encontrar um código backdoor, por favor, emita.
 
-本项目提供的工具，禁止从事非法活动，此项目，仅供测试，所造成的一切后果，与本人无关。
+As ferramentas fornecidas neste projeto estão proibidas de se envolver em atividades ilegais.Este projeto é apenas para fins de teste e não tem nada a ver comigo.
 
-Author ：tennc
 
-http://tennc.github.io/webshell
+## For more information
 
-license : GPL v3
-
-## Download link
 Check github releases. Latest:
 
 [https://github.com/tennc/webshell/releases](https://github.com/tennc/webshell/releases)
+
+## License
+
+GPL v3
+
+## Contributing
+
+For contributing guidelines, please see [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Credits
+
+- tennc
